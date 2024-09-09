@@ -1,0 +1,6 @@
+pandas
+openai
+tiktoken
+scipy
+transformers
+spacy
